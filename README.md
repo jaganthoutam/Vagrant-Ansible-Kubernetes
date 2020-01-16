@@ -22,7 +22,7 @@ $ vagrant up
 $ vagrant ssh k8s-master
 $ kubectl get nodes
 NAME         STATUS     ROLES    AGE     VERSION
-k8s-master   Ready      master   3m43s   v1.13.4
-node-1       Ready      <none>   118s    v1.13.4
-node-2       NotReady   <none>   13s     v1.13.4
+k8s-master   Ready      master   3m43s   v1.14.0
+node-1       Ready      <none>   118s    v1.14.0
+node-2       NotReady   <none>   13s     v1.14.0
 ```
