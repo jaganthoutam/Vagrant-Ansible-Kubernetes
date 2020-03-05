@@ -2,8 +2,8 @@
 Combination of Vagrant and Ansible to spin up a Kubernetes cluster
 
 ### Prerequisites
- Vagrant 2.1.4+
- Virtualbox 5.2.18
+- Vagrant 2.1.4+
+- Virtualbox 5.2.18
 
 ### Define amount of nodes
 in Vagrantfile:
